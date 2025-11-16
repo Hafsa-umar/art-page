@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #d9d9d9;      
+    background: yellow !important;      
     font-family: 'UnifrakturCook', serif; 
     color: white;             
 }
@@ -167,3 +167,4 @@ input, select, textarea {
     margin-top: 40px;
     font-size: 22px;
 }
+
